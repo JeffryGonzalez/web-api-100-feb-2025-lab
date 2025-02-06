@@ -15,6 +15,9 @@ When added, each tech should have:
 
 Create an endpoint that allows us to get a list of all the techs and their email address or phone number.
 
+GET /techs
+
+
 ## Suggestions
 
 You can do this in the current project, or you can create a new API project in your `src` directory. Your choice.
